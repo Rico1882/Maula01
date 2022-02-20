@@ -28,7 +28,11 @@ public class Main {
 
         //Empréstimo
 
+<<<<<<< HEAD
         System.out.println("Exercicio emprétimo");
+=======
+        System.out.println("Exercicio empréstimo");
+>>>>>>> b9590e9 (Initial commit)
 
         Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
         Emprestimo.calcular( 1000, Emprestimo.getTresParcelas());
